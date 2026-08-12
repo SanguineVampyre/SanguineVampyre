@@ -11,6 +11,6 @@
 <p align="center"> $\textsf{{\color{#ff0015}Heavy }{\color{#de0012}Ang}{\color{#b8000f}er is}{\color{#9c000d}sues}}$ . $\textsf{{\color{#ff0015}Low}{\color{#de0012}-ish }{\color{#b8000f}empa}{\color{#9c000d}thy}}$ </p>
 
 
-<p align="center"> <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_150101280.png"> </p>
+<p align="center"> <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-06-17_195932089.png"> </p>
 
 test
