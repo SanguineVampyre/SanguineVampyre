@@ -14,3 +14,6 @@
 
 <p align="center"> $\textsf{{\color{#ff0015}Horr}{\color{#de0012}or + }{\color{#b8000f}Weste}{\color{#9c000d}rn enjoyer}}$ </p>
 <p align="center"> $\textsf{{\color{#ff0015}Unhi}{\color{#de0012}nged n }{\color{#b8000f}Psy}{\color{#9c000d}chotic}}$ </p>
+
+<p align="center"> {Ponytown Boundaries} </p>
+<p align="center"> $\textsf{{\color{#ff0015}C+}{\color{#de0012}H, W}{\color{#b8000f}2I, of}{\color{#9c000d}ten offtab}}$ </p>
