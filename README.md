@@ -10,7 +10,7 @@
 
 <p align="center"> $\textsf{{\color{#ff0015}Heavy }{\color{#de0012}Ang}{\color{#b8000f}er is}{\color{#9c000d}sues}}$ . $\textsf{{\color{#ff0015}Low}{\color{#de0012}-ish }{\color{#b8000f}empa}{\color{#9c000d}thy}}$ </p>
 
-
 <p align="center"> <img src="https://file.garden/Zm1w3fzejzDv1ezv/c81a92f4.gif"> </p>
 
-test
+<p align="center"> $\textsf{{\color{#ff0015}Horr}{\color{#de0012}or & }{\color{#b8000f}Weste}{\color{#9c000d}rn enjoyer}}$ </p>
+<p align="center"> $\textsf{{\color{#ff0015}Unhi}{\color{#de0012}nged n }{\color{#b8000f}}{\color{#9c000d}Psychotic}}$ </p>
