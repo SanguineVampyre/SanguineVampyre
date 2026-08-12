@@ -6,4 +6,4 @@
 
 <p align="center"> <img src="https://file.garden/Zm1w3fzejzDv1ezv/Bild_2025-07-12_150501208.png"> </p>
 
-<p align="center"> $\textsf{{\color{#ff0015}Intro}{\color{#de0012}vert}{\color{#b8000f}ed bast}{\color{#9c000d}ard}}$
+<p align="center"> $\textsf{{\color{#ff0015}Intro}{\color{#de0012}vert}{\color{#b8000f}ed bast}{\color{#9c000d}ard}}$ </p>
