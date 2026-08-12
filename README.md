@@ -12,5 +12,5 @@
 
 <p align="center"> <img src="https://file.garden/Zm1w3fzejzDv1ezv/c81a92f4.gif"> </p>
 
-<p align="center"> $\textsf{{\color{#ff0015}Horr}{\color{#de0012}or & }{\color{#b8000f}Weste}{\color{#9c000d}rn enjoyer}}$ </p>
+<p align="center"> $\textsf{{\color{#ff0015}Horr}{\color{#de0012}or n }{\color{#b8000f}Weste}{\color{#9c000d}rn enjoyer}}$ </p>
 <p align="center"> $\textsf{{\color{#ff0015}Unhi}{\color{#de0012}nged n }{\color{#b8000f}}{\color{#9c000d}Psychotic}}$ </p>
