@@ -2,9 +2,7 @@
 <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_125729060.png">
 </p>
 
-<h2> test </h2>
-
-<p align="center"> $\textsf{{\color{#ff0015}C}{\color{#de0012}o}{\color{#b8000f}l}{\color{#9c000d}t}}$
- </p> 
+<p align="center"> <b> $\textsf{{\color{#ff0015}C}{\color{#de0012}o}{\color{#b8000f}l}{\color{#9c000d}t}}$
+</b> </p>
 
 
