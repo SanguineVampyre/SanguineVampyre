@@ -18,3 +18,4 @@
 <p align="center"> $\color{red}{\textsf{✦ 𝑷𝒐𝒏𝒚𝒕𝒐𝒘𝒏 𝑩𝒐𝒖𝒏𝒅𝒂𝒓𝒊𝒆𝒔 ⸝⸝}}$ </p>
 <p align="center"> $\textsf{{\color{#ff0015}C+}{\color{#de0012}H, W}{\color{#b8000f}2I, of}{\color{#9c000d}ten offtab}}$ </p>
 <p align="center"> $\textsf{{\color{#ff0015}Don‘t fr}{\color{#de0012}iend me i}{\color{#b8000f}f you‘re }{\color{#9c000d}under 16/17}}$ </p>
+<p align="center"> $\textsf{{\color{#ff0015}Interact }{\color{#de0012}w/ me }{\color{#b8000f}I don‘t }{\color{#9c000d}bite.}}$ </p>
