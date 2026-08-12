@@ -2,4 +2,4 @@
 <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_125729060.png">
 </p>
 
-$\color{#f00}{\textsf{test}}$
+<p align="center"> ## $\color{#f00}{\textsf{Colt}}$ </p> 
