@@ -7,3 +7,5 @@
 <p align="center"> <img src="https://file.garden/Zm1w3fzejzDv1ezv/Bild_2025-07-12_150501208.png"> </p>
 
 <p align="center"> $\textsf{{\color{#ff0015}20 }{\color{#de0012}ye}{\color{#b8000f}ars }{\color{#9c000d}old}}$ . $\textsf{{\color{#ff0015}Sy}{\color{#de0012}st}{\color{#b8000f}e}{\color{#9c000d}m}}$ . $\textsf{{\color{#ff0015}Ta}{\color{#de0012}k}{\color{#b8000f}e}{\color{#9c000d}n}}$ </p>
+
+<p align="center"> $\textsf{{\color{#ff0015}Heavy }{\color{#de0012}Ang}{\color{#b8000f}er is}{\color{#9c000d}sues}}$ . $\textsf{{\color{#ff0015}Low}{\color{#de0012}-ish}{\color{#b8000f}empa}{\color{#9c000d}thy}}$ </p>
