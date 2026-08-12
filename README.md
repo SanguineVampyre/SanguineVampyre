@@ -2,6 +2,6 @@
 <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_125729060.png">
 </p>
 
-<p align="center"> $\textsf{{\color{#ff0015}★𓏼 𝑪}{\color{#de0012}𝒐}{\color{#b8000f}𝒍}{\color{#9c000d}𝒕}}$ $\textsf{{\color{#ff0015}𝑩𝒐}{\color{#de0012}𝒐𝒕}{\color{#b8000f}𝒉𝒊}{\color{#9c000d}𝒍𝒍 ﹒⟢}}$</p>
+<p align="center"> $\textsf{{\color{#ff0015}★𓏼 𝑪}{\color{#de0012}𝒐}{\color{#b8000f}𝒍}{\color{#9c000d}𝒕}}$ 𝑶𝒓 $\textsf{{\color{#ff0015}𝑩𝒐}{\color{#de0012}𝒐𝒕}{\color{#b8000f}𝒉𝒊}{\color{#9c000d}𝒍𝒍 ﹒⟢}}$</p>
 
 
