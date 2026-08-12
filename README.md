@@ -19,3 +19,7 @@
 <p align="center"> $\textsf{{\color{#ff0015}C+}{\color{#de0012}H, W}{\color{#b8000f}2I, of}{\color{#9c000d}ten offtab.}}$ </p>
 <p align="center"> $\textsf{{\color{#ff0015}Don‘t fr}{\color{#de0012}iend me i}{\color{#b8000f}f you‘re }{\color{#9c000d}under 16/17.}}$ </p>
 <p align="center"> $\textsf{{\color{#ff0015}Interact }{\color{#de0012}w/ me }{\color{#b8000f}I don‘t }{\color{#9c000d}bite.}}$ </p>
+
+<p align="center">
+<img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_163156852.png">
+</p>
