@@ -21,7 +21,7 @@
 <p align="center"> $\textsf{{\color{#ff0015}Interact }{\color{#de0012}w/ me }{\color{#b8000f}I don‘t }{\color{#9c000d}bite.}}$ </p>
 
 <p align="center">
-<img src="https://file.garden/Zm1w3fzejzDv1ezv/bullet.png">
+<img src="https://file.garden/Zm1w3fzejzDv1ezv/6130186d.gif">
 </p>
 
 <p align="center">
