@@ -29,7 +29,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3y5xor5istjyg901nvdn8ikwm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=bc2929&bar_color_cover=false">
   </a>
 </p>
-
+<img src="https://file.garden/Zm1w3fzejzDv1ezv/56e046b3.gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/223de8d0.gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/a3fe0746%20(1).gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/c12f6282.gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/1e5b009b.gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/e5ae72ba.gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/a3.gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/61864536.gif"><img src="https://file.garden/Zm1w3fzejzDv1ezv/324b998d.gif">
 <p align="center">
 <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_163156852.png">
 </p>
