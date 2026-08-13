@@ -2,12 +2,6 @@
 <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_125729060.png">
 </p>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3y5xor5istjyg901nvdn8ikwm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=bc2929&bar_color_cover=false">
-  </a>
-</p>
-
 <p align="center"> $\textsf{{\color{#ff0015}★𓏼 𝑳𝒐}{\color{#de0012}𝒏𝒆}{\color{#b8000f}𝒔𝒕}{\color{#9c000d}𝒂𝒓}}$ / $\textsf{{\color{#ff0015}𝑪}{\color{#de0012}𝒐}{\color{#b8000f}𝒍}{\color{#9c000d}𝒕 ﹒⟢}}$ </p>  
 
 <p align="center"> <img src="https://file.garden/Zm1w3fzejzDv1ezv/Bild_2025-07-12_150501208.png"> </p>
@@ -27,8 +21,11 @@
 <p align="center"> $\textsf{{\color{#ff0015}Interact }{\color{#de0012}w/ me }{\color{#b8000f}I don‘t }{\color{#9c000d}bite.}}$ </p>
 
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3y5xor5istjyg901nvdn8ikwm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=bc2929&bar_color_cover=false">
+  </a>
+</p>
+
+<p align="center">
 <img src="https://file.garden/Zm1w3fzejzDv1ezv/image_2026-08-12_163156852.png">
 </p>
-ㅤ
-ㅤ
-ㅤ
